@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+opencv-python-headless
+scikit-image
+scikit-learn
+tensorflow
+kaggle
+ultralytics
+jupyter
+nbformat
+seaborn
